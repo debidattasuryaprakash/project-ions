@@ -23,8 +23,8 @@ Bring the idea of a **sustainable** future into a working ideation which is **fe
 
 
 ## Quick Links
-**Website**-[https://debidattasuryaprakash.github.io/project-ions/]
-**Weather Report**-[(https://debidattasuryaprakash.github.io/weath/)]
-**Organizable Chat**-[(https://chat-app-react10.netlify.app/)]
+**Website**-[https://debidattasuryaprakash.github.io/project-ions/]<br>
+**Weather Report**-[(https://debidattasuryaprakash.github.io/weath/)]<br>
+**Organizable Chat**-[(https://chat-app-react10.netlify.app/)]<br>
 
 ## Demo
