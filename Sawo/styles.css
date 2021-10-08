@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: auto;
+    justify-content: center;
+    background-color: rgb(255, 155, 155);
+}
+sawo-container{
+    left: 30%;
+    top: 50%;
+    border-radius: 50px;
+}
